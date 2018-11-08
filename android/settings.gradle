@@ -1,0 +1,3 @@
+rootProject.name = 'rnbMobile'
+
+include ':app'
