@@ -25,3 +25,4 @@
 - `git add .`
 - `git commit -m "Initial commit"`
 - `git remote add origin 'https://{or}ssh://url-of-your-new-empty-repo'`
+- `git push -u origin master`
